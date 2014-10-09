@@ -1,0 +1,4 @@
+width, height, depth, color, filled
+1, 1, 1, red, true
+5, 3, 4, blue, false
+4, 8, 4, green, false

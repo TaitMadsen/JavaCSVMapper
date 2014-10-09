@@ -1,0 +1,4 @@
+amount, what was bought, other party, payment method
+-10, lunch, Orange Glory, Visa
+-70, Test, Sabum Nim Rowe, Cash
+500, TA pay, UofR, Check
