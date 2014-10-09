@@ -1,7 +1,7 @@
 JavaCSVMapper
 =============
 
-A Java utility for mapping lines in a CSV file to objects.
+A Java utility for mapping a CSV file to a list of objects.
 
 To use, add @CSVMapperSetterMethod annotation to setter methods in your destination object that correspond 
 with the fields you want to obtain from your CSV.  There are a few simple rules:  
